@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DentalManagementSystem.clsFunc" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>clsFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.CommonClasses">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAQAAAAQAQAAAAAAAAAAAAACAAAAABA=</HashCode>
+      <FileName>CommonClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.ConnectionString" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ConnectionString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmAbout">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmCategory" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAEAAEFCAADABQAACAAAACAAA4wDwBAJAAAAMAAQQ=</HashCode>
+      <FileName>frmCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmChangePassword">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACECAACABAgACAAAACAAAAYKAAABAAAAEAAQA=</HashCode>
+      <FileName>frmChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmInvoice" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACEAAIPCAADBJQAAChQAESFCC4ZzgJIPAAAAJAYQQ=</HashCode>
+      <FileName>frmInvoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmInvoiceRecord" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAESAADBIAAgCgAAAaDAAARAQBQJAAAQEAAAA=</HashCode>
+      <FileName>frmInvoiceRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmLogin" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAECAAGAEAAACAAIgCYAAACGADABgAAAAAAAA=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmLogs" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAMAAAEyAADAIAAACAAQATDAg4RCABAJAAAIEAIAA=</HashCode>
+      <FileName>frmLogs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmMainMenu" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcQAFUQAICAACAgBAiCWUJYDAEIIJiggAREAhABAADA=</HashCode>
+      <FileName>frmMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmPatient" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAIEAAANCAgDhJQAACggAAClAgoQDghILAAAAIABQQ=</HashCode>
+      <FileName>frmPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmPatientRecord" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAESAADAAAAgCgAAAKCAAAQAQBQJAAAAEAAAA=</HashCode>
+      <FileName>frmPatientRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmProcedure" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgCEYAAPKAADBJSAACgQCESNCB4YTiRIfAAAApAUQQ=</HashCode>
+      <FileName>frmProcedure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmProcedureRecord" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAESAADBIAAgCgAAAaDAAARAQBQJAAAQEAAAA=</HashCode>
+      <FileName>frmProcedureRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmRegistration" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAEAEAFCAgDADQiACAAAACAAA4RzwhAJAAAAMAAQQ=</HashCode>
+      <FileName>frmRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmSplash">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACgAABAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmSplash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmStaff" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAIEAAANCAADhJQCICAgAACJgg4QDghIJAAAAIAAQQ=</HashCode>
+      <FileName>frmStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.frmStaffRecord" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAESAADAAAAoCAAAAKCAAAQAQBQJAAAAEAAAA=</HashCode>
+      <FileName>frmStaffRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.Program" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAggAAIAAABEAAAAQAABAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DentalManagementSystem.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,49 @@
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\bin\Debug\ClinicaDentaria.exe.config
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\bin\Debug\ClinicaDentaria.exe
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\bin\Debug\ClinicaDentaria.pdb
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\ClinicaDentaria.csprojResolveAssemblyReference.cache
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmAbout.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmInvoice.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmInvoiceRecord.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmStaffRecord.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmStaff.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmProcedureRecord.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmProcedure.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmPatientRecord.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmPatient.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmLogs.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmSplash.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmCategory.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmChangePassword.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmLogin.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmMainMenu.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmRegistration.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\DentalManagementSystem.Properties.Resources.resources
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\ClinicaDentaria.csproj.GenerateResource.Cache
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\ClinicaDentaria.exe
+C:\_vbn\dentalmanagementsystem\DentalManagementSystem\ClinicaDentaria\obj\Debug\ClinicaDentaria.pdb
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\bin\Debug\ClinicaDentaria.exe.config
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\bin\Debug\ClinicaDentaria.exe
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\bin\Debug\ClinicaDentaria.pdb
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\ClinicaDentaria.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmAbout.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmInvoice.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmInvoiceRecord.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmStaffRecord.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmStaff.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmProcedureRecord.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmProcedure.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmPatientRecord.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmPatient.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmLogs.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmSplash.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmCategory.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmChangePassword.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmLogin.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmMainMenu.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.frmRegistration.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\DentalManagementSystem.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\ClinicaDentaria.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\ClinicaDentaria.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\ClinicaDentaria.exe
+C:\Users\Lucas\Desktop\Super DVD CSharp\5_2_Sistemas Completos\98 - Clinica_Dentaria\ClinicaDentaria\obj\Debug\ClinicaDentaria.pdb
